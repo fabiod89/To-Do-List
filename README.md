@@ -22,7 +22,7 @@ This app was created to a hobby-project to practice various web application tool
 
 ### Executing program
 
-* Go to the link https://enigmatic-dawn-65343.herokuapp.com/
+* Go to the link https://enigmatic-dawn-65343.herokuapp.com/ (Node.JS not required)
 
 * OR
 
@@ -32,6 +32,16 @@ This app was created to a hobby-project to practice various web application tool
 node app.js
 ```
 * In your web-browser, go to the link http://localhost:3000/
+
+## Commit History
+
+* "Upload to Heroku"
+  * Updated README.md
+  * Created "Procfile" and updated app.js for Heroku
+  * Removed unnecessary code and files
+
+* "First Commit"
+  * Initial Release
 
 ## Authors
 
