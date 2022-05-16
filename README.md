@@ -1,12 +1,10 @@
 # Project Title
 
-Simple overview of use/purpose.
+A Simple to-do list web application.
 
 ## Description
 
-An in-depth paragraph about your project and overview of use.
-
-## Getting Started
+This app was created to a hobby-project to practice various web application tools.
 
 ### Dependencies
 
@@ -18,28 +16,23 @@ An in-depth paragraph about your project and overview of use.
 
 ### Installing
 
-* How/where to download your program
-* Any modifications needed to be made to files/folders
+* Install node on your computer
+* Download the ZIP file and extract it to anywhere in your hard drive
 
 ### Executing program
 
-* How to run the program
-* Step-by-step bullets
+* Open your command line and navigate to the folder directory
+* Execute the following command
 ```
-code blocks for commands
+node app.js
 ```
+* In your web-browser, go to the link http://localhost:3000/
 
 ## Authors
 
-Contributors names and contact info
-
-ex. Fabio De Oliveira
+Fabio De Oliveira
 
 ## Acknowledgments
 
 Inspiration, code snippets, etc.
-* [awesome-readme](https://github.com/matiassingers/awesome-readme)
-* [PurpleBooth](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)
-* [dbader](https://github.com/dbader/readme-template)
-* [zenorocha](https://gist.github.com/zenorocha/4526327)
-* [fvcproductions](https://gist.github.com/fvcproductions/1bfc2d4aecb01a834b46)
+* [The Complete 2022 Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/)
