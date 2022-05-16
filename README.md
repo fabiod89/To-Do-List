@@ -4,7 +4,7 @@ A Simple to-do list web application.
 
 ## Description
 
-This app was created to a hobby-project to practice various web application tools.
+This app was created as a hobby-project to practice various web app tools.
 
 ### Dependencies
 
@@ -45,7 +45,9 @@ Fabio De Oliveira
 
 ## Commit History
 
-* "Updated Style"
+* "Fixed Typo in README.md"
+
+* "Update CSS"
   * Changed color in CSS
 
 * "Upload to Heroku"
