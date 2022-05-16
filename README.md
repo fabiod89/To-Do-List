@@ -13,6 +13,7 @@ This app was created to a hobby-project to practice various web application tool
 * BodyParser
 * Express
 * EJS
+* Heroku
 
 ### Installing
 
@@ -20,6 +21,10 @@ This app was created to a hobby-project to practice various web application tool
 * Download the ZIP file and extract it to anywhere in your hard drive
 
 ### Executing program
+
+* Go to the link https://enigmatic-dawn-65343.herokuapp.com/
+
+* OR
 
 * Open your command line and navigate to the folder directory
 * Execute the following command
