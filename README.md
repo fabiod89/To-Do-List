@@ -33,7 +33,20 @@ node app.js
 ```
 * In your web-browser, go to the link http://localhost:3000/
 
+## Planned Features
+
+* Ability to delete "tasks"
+* Fix strike-through disappearing after refresh
+* Add login ability to view own "To-Do-List"
+
+## Authors
+
+Fabio De Oliveira
+
 ## Commit History
+
+* "Updated Style"
+  * Changed color in CSS
 
 * "Upload to Heroku"
   * Updated README.md
@@ -42,10 +55,6 @@ node app.js
 
 * "First Commit"
   * Initial Release
-
-## Authors
-
-Fabio De Oliveira
 
 ## Acknowledgments
 
