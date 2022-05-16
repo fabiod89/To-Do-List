@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+
+<head>
+  <meta charset="utf-8">
+
+  <link rel="stylesheet" href="css/styles.css">
+
+  <title>To Do List</title>
+</head>
+
+<body>
+  <h1 id="heading">To-Do List</h1>
+  <div class="box">
+    <% for (let item of test){ %>
+    <div class="item">
+      <input type="checkbox">
+      <p> <%= item %></p>
+    </div>
+
+    <% } %>
+    
+    <form action="/" method="Post" class="item">
+      <input type="text" name="AddNewItem" placeholder="Add Item">
+      <br><br>
+      <button type="submit" name="button">+</button>
+    </form>
+  </div>
+</body>
+
+</html>
